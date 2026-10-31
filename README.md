@@ -32,9 +32,8 @@
 ![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alex-gros&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=alex-gros&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-gros&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alex-gros&theme=tokyonight)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alex-gros&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alex-gros&theme=tokyonight)<br/>
+![](https://streak-stats.demolab.com/?user=alex-gros&theme=tokyonight&hide_border=false)
 ---
-[![](https://visitcount.itsvg.in/api?id=alex-gros&icon=2&color=4)](https://visitcount.itsvg.in)
+![Visitas](https://komarev.com/ghpvc/?username=alex-gros&color=blueviolet&label=Visitas+al+perfil)
